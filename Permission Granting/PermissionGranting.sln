@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PermissionGranting", "PermissionGranting.pyproj", "{C8520563-9DC8-4EA9-92CA-C28D2C12A1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8520563-9DC8-4EA9-92CA-C28D2C12A1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8520563-9DC8-4EA9-92CA-C28D2C12A1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774115A6-C24C-4A41-8189-57F345A1F7F7}
+	EndGlobalSection
+EndGlobal
